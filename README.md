@@ -1,8 +1,8 @@
 # PicoCalc
-Apps and Games for the PicoCalc
+Apps and Games for the PicoCalc.
 
 ## Video Poker
-A 5-card poker game for the PicoCalc developed in MMBasic.
+A 5-card poker game for the [PicoCalc](https://www.clockworkpi.com/picocalc) developed in MMBasic.
 
 ![Screenshot](screenshots/videopoker-02.png?raw=true)
 
