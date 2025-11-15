@@ -11,6 +11,7 @@ A 5-card poker game for the PicoCalc running PicoMite firmware, developed in MMB
 - **Up, Down** - Increase / Decrease bet
 - **Spacebar** - Hold / Unhold card
 - **Enter** - Deal / Draw
+- **Esc** - Exit game
 
 **Gameplay**
 
